@@ -1,8 +1,10 @@
 #include <iostream>
+
 using namespace std;
 
 int main()
 {
-	cout << "a4" << endl;
-	return 0;
+cout << "Example1!" << endl;
+return 0;
+
 }
